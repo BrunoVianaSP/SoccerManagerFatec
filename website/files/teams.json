@@ -1,28 +1,94 @@
 {
-	"teams" : [
+	"teams": [
 		{
-			"name" : "Chute Preciso F.S.",
-			"owner" : {
-						"name": "Felipe Rodrigues de Melo",
-					    "rg": 33.333.333-5
-					  },
-			"wear" : [{"tshirt": "Vermelha",
-					  "shorts": "Preto",
-					  "stocking": "Preto"}],
-			"contact_email" : "Felipemelobdm@outlook.com",
-			"contact_phone" : "(11) 98772-5955",
-			"availability" : ["monday": ["19h00, "19h30", "20h00"],
-							  "tuesday": ["20h00","20h30"],
-							  "wednesday": ["19h00"],
-							  "thursday": ["19h00"],
-							  "friday": ["19h00"]],
-			"players" : [
-						 {
-							"name": "Felipe Rodrigues De Melo",
-							"rg": "36.604.597-0",
-							"ra": "18102281"
-						 }
-						]
+			"name": "Chute Preciso F.S.",
+			"owner": {
+				"name": "Felipe Rodrigues de Melo",
+				"rg": "36.604.597-0"
+			},
+			"wear": [
+				{
+					"tshirt": "Vermelha",
+					"shorts": "Preto",
+					"stocking": "Preto"
+				}
+			],
+			"email": "Felipemelobdm@outlook.com",
+			"phones": [
+				"(11) 98772-5955"
+			],
+			"availability": {
+				"monday": [
+					"19h00",
+					"19h30",
+					"20h00"
+				],
+				"tuesday": [
+					"20h00",
+					"20h30"
+				],
+				"wednesday": [
+					"19h00"
+				],
+				"thursday": [
+					"19h00"
+				],
+				"friday": [
+					"19h00"
+				]
+			},
+			"players": [
+				{
+					"name": "Felipe Rodrigues De Melo",
+					"rg": "36.604.597-0",
+					"ra": "18102281"
+				},
+				{
+					"name": "Leonardo Santos",
+					"rg": " 50.443.645-4",
+					"ra": "18102397"
+				},
+				{
+					"name": "Doong Martins",
+					"rg": " 55.411.424-0",
+					"ra": "18114149"
+				},
+				{
+					"name": "João Pedro",
+					"rg": " 38.233.770-0",
+					"ra": "18102225"
+				},
+				{
+					"name": "Matheus de Almeida",
+					"rg": " 52.081.949-4",
+					"ra": "18111135"
+				},
+				{
+					"name": "Witor Rodrigues",
+					"rg": " 55.084.500-8",
+					"ra": "18102243"
+				},
+				{
+					"name": "Victor Tochetto",
+					"rg": " 38.650.318-7",
+					"ra": "18102092"
+				},
+				{
+					"name": "Rafael Simões",
+					"rg": " 49.387.392-2",
+					"ra": "18102350"
+				},
+				{
+					"name": "Bruno Carvalho",
+					"rg": " 37.416.514-2",
+					"ra": "18102341"
+				},
+				{
+					"name": "Pedro Correia",
+					"rg": " 52.228.579-X",
+					"ra": "18102065"
+				}
+			]
 		}
 	]
 }
